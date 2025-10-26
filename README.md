@@ -1,6 +1,6 @@
 # CS-230
-# Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
-# The Gaming Room was mainly focused on the mobile game players. This means that Iphone and Android users were their main focus. Creating a safe and secure gaming experience for both Apple and Android users is a top design feature they wanted the game to represent
+ Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+ The Gaming Room was mainly focused on the mobile game players. This means that Iphone and Android users were their main focus. Creating a safe and secure gaming experience for both Apple and Android users is a top design feature they wanted the game to represent
 What did you do particularly well in developing this documentation?
 I believe I did well in the safety aspect of the document as I brainstormed ways to make the game safe for users. By implementing several safety protocols like  chat monitoring and a two-factor authentication when users purchase in game merchandise can save users from scammers.
 What about the process of working through a design document did you find helpful when developing the code?
